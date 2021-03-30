@@ -4,10 +4,10 @@ title: What about...
 permalink: /about/
 ---
 
-# What about farmers?
+# ... farmers?
 Don't blame the farmers!  " but since then many people have mistakenly attributed it to farmers." - from the [Farm Bureau](https://www.fb.org/viewpoints/setting-the-record-straight-daylight-saving-time-and-farmers) page.
 
-# What about kids going to school in the dark?
+# ... kids going to school in the dark?
 The #LockTheClock campaign has a [good page that covers this and more](https://www.sco.tt/time/research.html).
 
 # What are the specific bill(s)
