@@ -14,7 +14,7 @@ The #LockTheClock campaign has a [good page that covers this and more](https://w
 They are currently tracked separately in the [house](https://www.congress.gov/bill/117th-congress/house-bill/69/cosponsors?searchResultViewType=expanded) and [senate](https://www.congress.gov/bill/117th-congress/senate-bill/623/cosponsors?searchResultViewType=expanded).
 
 # The #LockTheClock campaign
-Check out the [https://www.sco.tt/time/](https://www.sco.tt/time/) for lots of detailed reasons and research why we shoudl #LockTheClock.
+Check out the [https://www.sco.tt/time/](https://www.sco.tt/time/) for lots of detailed reasons and research why we should #LockTheClock.
 
 # My company or organization wants to join the campaign!
 Please get in touch, ideally via Github with an logo we can use, a link to a page detailing why your company is supporting this. If there is lots of interest, we will make a more defined template.
