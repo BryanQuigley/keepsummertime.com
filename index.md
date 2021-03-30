@@ -2,14 +2,26 @@
 layout: page
 ---
 
-Are you tired of having to switch your clocks?
+Are you tired of having to switch your clocks? Let's #LockTheClock!
 
-We have a choice to be on 
- * Standard time (more daylight in the morning) - 4 months of the year right now.
- * Daylight Saving Time (summer time or more daylight in the afternoon).  It seems the majority of us want more time in the afternoon and no time change.  This used to be less than the "standard" time but we keep increasing it.
+| Summer Time (DST*) | "Standard" Time   |
+--- | --- |
+| More daylight at end of day  | More daylight at start of day |
+| 8 months of the year | Only 4 months of the year - used to be more|
 
-Let's just keep the clocks on the schedule from the summer!  The bipartisan Sunshine Protection Act does just that. States or territories that don't follow DST currently are not impacted. 
+*Also called Daylight Saving Time but that's also what people call the time change itself. We don't want any more time changes.
+
+
+Changing the clocks disrupts our lives and has been shown to increase risk of heart attack, strokes, and other health issues.  It has been shown to cause more accidents and it has not saved any energy in decades.
+
+Giving us an extra hour of sunlight at the end of the day can help us get more exercise and spend more time outside.
+
+Let's just keep the clocks on the schedule from the summer!  The bipartisan Sunshine Protection Act does just that. States or territories that don't follow DST currently are not impacted.
+
+
 
 <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/letter/support-for-the-sunshine-protection-act?format=js&source=widget'></script><div id='can-letter-area-support-for-the-sunshine-protection-act' style='width: 100%'></div>
 
-I will never ask for money as part of this campaign - just actions that I think will help.I may send out 1 "Thank you" message if this is successful which could mention other campaigns.  After that 1 email all the data will be deleted.
+
+
+I will ***never*** ask for money as part of this campaign just actions that I think will help. I may send out 1 "Thank you" message if this is successful which could mention other campaigns.  After that 1 email all your information will be deleted (unless you sign up for other actions through ActionNetwork of course).

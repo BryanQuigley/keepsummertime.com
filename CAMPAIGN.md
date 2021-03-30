@@ -1,0 +1,46 @@
+Action network campaign. You can help me improve this too!
+
+
+Title: Support the Sunshine Protection Act
+Default Subject: Support the Sunshine Protection Act
+
+WHY IS THIS IMPORTANT?  | Also Default Message
+
+Please support the Sunshine Protection Act to make Daylight Saving time (Summer time) permanent.
+
+Changing the clocks disrupts our lives and has been shown to increase risk of heart attack, strokes, and other health issues.  It has been shown to cause more accidents and it has not saved any energy in decades.
+
+Giving us an extra hour of sunlight at the end of the day can help us get more exercise and spend more time outside.
+
+Thank you!
+
+
+Writing TIPS
+Please feel free to modify this with your own personal thoughts!
+
+
+Currently target is all of congress - TODO drop the existing co-sponsors.
+
+Sharing options:
+Facebook:
+Please support the Sunshine Protection Act to make Daylight Saving time (Summer time) permanent. Changing the clocks disrupts our lives and has been shown to increase risk of heart attack, strokes, and other health issues.  It has been shown to cause more accidents and it has not saved any energy in decades.   Giving us an extra hour of sunlight at the end of the day can help us get more exercise and spend more time outside. Thank you!  
+
+Twitter:
+I just wrote to #LockTheClock by keeping us on summer time via the Sunshine Protection Act. Write one here: https://keepsummertime.com/
+
+
+Email:
+Subject: Support the Sunshine Protection Act
+
+Body:
+
+Friend,
+
+I just wrote to #LockTheClock by keeping us on summer time via the Sunshine Protection Act
+
+Please support the Sunshine Protection Act to make Daylight Saving time (Summer time) permanent. Changing the clocks disrupts our lives and has been shown to increase risk of heart attack, strokes, and other health issues. It has been shown to cause more accidents and it has not saved any energy in decades. Giving us an extra hour of sunlight at the end of the day can help us get more exercise and spend more time outside. Thank you!
+
+Can you join me and write a letter? Click here: https://keepsummertime.com/
+
+Thanks!
+
