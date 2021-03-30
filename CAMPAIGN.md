@@ -1,5 +1,20 @@
 Action network campaign. You can help me improve this too!
 
+TO Co-sponsors/ supporters
+Title: Sunshine Protection Act
+
+I appreciate that you are supporting the bipartisan Sunshine Protection Act. 
+
+It is important to me that we #LockTheClock to get more daylight at the end of the day.
+
+Thank you!
+
+Writing TIPS
+This goes to your representatives​ who have already either shown their support for #LockTheClock!  Say a personal thank you!
+
+
+
+
 
 Title: Support the Sunshine Protection Act
 Default Subject: Support the Sunshine Protection Act
@@ -17,6 +32,8 @@ Thank you!
 
 Writing TIPS
 Please feel free to modify this with your own personal thoughts!
+
+
 
 
 Currently target is all of congress - TODO drop the existing co-sponsors.
