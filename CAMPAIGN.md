@@ -16,7 +16,7 @@ This goes to your representatives​ who have already either shown their support
 
 
 
-Title: Support the Sunshine Protection Act
+Title: Write to Congress for permanent Daylight Saving Time
 Default Subject: Support the Sunshine Protection Act
 
 WHY IS THIS IMPORTANT?  | Also Default Message
