@@ -8,7 +8,16 @@ permalink: /about/
 Don't blame the farmers!  " but since then many people have mistakenly attributed it to farmers." - from the [Farm Bureau](https://www.fb.org/viewpoints/setting-the-record-straight-daylight-saving-time-and-farmers) page.
 
 # ... kids going to school in the dark?
-The #LockTheClock campaign has a [good page that covers this and more](https://www.sco.tt/time/research.html).
+The #LockTheClock campaign has a [good page that covers this and more](https://www.sco.tt/time/research.html)
+
+# ... energy use?
+It doesn't save energy!
+
+# ... our health?
+Changing the clocks causes:
+ * Higher risk of heart attack, strokes, and other health issues
+ * Major mental heal
+ * More accidents and it has not saved any energy in decades. 
 
 # What are the specific bill(s)
 They are currently tracked separately in the [house](https://www.congress.gov/bill/117th-congress/house-bill/69/cosponsors?searchResultViewType=expanded) and [senate](https://www.congress.gov/bill/117th-congress/senate-bill/623/cosponsors?searchResultViewType=expanded).
