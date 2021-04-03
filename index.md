@@ -6,6 +6,8 @@ layout: page
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>☀️</text></svg>">
 </head>
 
+<link rel="stylesheet" type="text/css" href="../style.css">
+
 Are you tired of having to change your clocks⏰ twice a year?
 
 Do you want to just keep the time like it is in the summer⛱️ with more sunlight☀️ in the in the afternoon?

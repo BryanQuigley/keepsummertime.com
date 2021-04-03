@@ -4,6 +4,8 @@ title: What about...
 permalink: /about/
 ---
 
+<link rel="stylesheet" type="text/css" href="../style.css">
+
 # ... farmers?
 Don't blame the farmers!  " but since then many people have mistakenly attributed it to farmers." - from the [Farm Bureau](https://www.fb.org/viewpoints/setting-the-record-straight-daylight-saving-time-and-farmers) page.
 
