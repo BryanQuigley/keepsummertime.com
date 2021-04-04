@@ -6,3 +6,7 @@ body {
     background-size: cover;
      /* background by SVGBackgrounds.com */
     }
+
+div#action_info_inner { /* Hide the redundant sponsor bit */
+        display:none;
+}
