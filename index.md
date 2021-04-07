@@ -12,6 +12,8 @@ layout: page
 <div id='can-letter-area-support-for-the-sunshine-protection-act'>If you see this, Sorry! The page didn't load correctly. <br/><a href="https://actionnetwork.org/letters/support-for-the-sunshine-protection-act">Try clicking here to write to congress.</a></div>
 
 # Privacy
+We need your address to know your representatives. We do provide a custom letter if you congressperson already supports the bill.
+
 I will ***never***:
  * ask for money
  * sell your information 
