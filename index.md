@@ -3,8 +3,17 @@ layout: page
 ---
 
 <head>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>☀️</text></svg>">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 </head>
+
+
+More sunshine in the afternoon. Time never falls back again.
+{: style="font-size: 130%; text-align: center;"}
+
+<center><img src="/favicon.svg" alt="sun" width="100" center/></center>
+
+Ask your representatives to support the bipartisan **Sunshine Protection Act**.
+{: style="font-size: 130%; text-align: center;"}
 
 <link href='style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/letter/support-for-the-sunshine-protection-act?format=js&source=widget&style=full'></script>
 <link rel="stylesheet" type="text/css" href="../style.css">

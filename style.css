@@ -10,3 +10,6 @@ background-size: cover;
 div#action_info_inner { /* Hide the redundant sponsor bit */
         display:none;
 }
+div#can_main_col { /* Hide the redundant sponsor bit */
+    display:none;
+}

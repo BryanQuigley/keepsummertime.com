@@ -38,3 +38,8 @@ Everything you see is editable on Github [https://github.com/BryanQuigley/keepsu
 
 # Credits
 Background by [SVGBackgrounds.com](SVGBackgrounds.com)
+
+Favicon and other images derived from [https://github.com/twitter/twemoji]
+Graphics Author: Copyright 2020 Twitter, Inc and other contributors
+- Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/2600.svg
+- Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
