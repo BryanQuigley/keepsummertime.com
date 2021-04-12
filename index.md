@@ -9,7 +9,7 @@ layout: page
 <link href='style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/letter/support-for-the-sunshine-protection-act?format=js&source=widget&style=full'></script>
 <link rel="stylesheet" type="text/css" href="../style.css">
 
-<div id='can-letter-area-support-for-the-sunshine-protection-act'>If you see this, Sorry! The page didn't load correctly. <br/><a href="https://actionnetwork.org/letters/support-for-the-sunshine-protection-act">Try clicking here to write to congress.</a></div>
+<div id='can-letter-area-support-for-the-sunshine-protection-act'>If you see this, Sorry! The page didn't load correctly. <br/><a href="https://actionnetwork.org/letters/support-for-the-sunshine-protection-act">Try clicking here to write to congress to keep summer time!</a></div>
 
 # Privacy
 We need your address to know your representatives. We do provide a custom letter if you congressperson already supports the bill.
