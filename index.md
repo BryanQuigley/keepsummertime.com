@@ -7,10 +7,11 @@ layout: page
 </head>
 
 
-More sunshine in the afternoon. Time never falls back again.
+More sunshine in the afternoon. Never change your clock again.
 {: style="font-size: 130%; text-align: center;"}
 
-<center><img src="/favicon.svg" alt="sun" width="100" center/></center>
+☀️ &emsp; &emsp; &emsp;&emsp;&emsp; 🕑
+{: style="font-size: 200%; text-align: center;"}
 
 Ask your representatives to support the bipartisan **Sunshine Protection Act**.
 {: style="font-size: 130%; text-align: center;"}
