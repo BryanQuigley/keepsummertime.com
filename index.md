@@ -12,7 +12,13 @@ More sunshine in the afternoon. Never change your clock again.
 ☀️ &emsp; &emsp; &emsp;&emsp;&emsp; 🕑
 {: style="font-size: 200%; text-align: center;"}
 
-Ask your reps to support the bipartisan **Sunshine Protection Act**.
+**15 States** already agree they want this. 
+{: style="font-size: 130%; text-align: center;"}
+
+**But** they need an act of congress to do it!
+{: style="font-size: 130%; text-align: center;"}
+
+Ask Congress to let them with the bipartisan **Sunshine Protection Act**.
 {: style="font-size: 130%; text-align: center;"}
 
 
