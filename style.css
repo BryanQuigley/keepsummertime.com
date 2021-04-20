@@ -13,3 +13,7 @@ div#action_info_inner { /* Hide the redundant sponsor bit */
 div#can_main_col { /* Hide the redundant sponsor bit */
     display:none;
 }
+
+summary {
+    font-size: 130%;
+  }
