@@ -12,15 +12,17 @@ More sunshine in the afternoon. Never change your clock again.
 ☀️ &emsp; &emsp; &emsp;&emsp;&emsp; 🕑
 {: style="font-size: 200%; text-align: center;"}
 
-**15 States** already agree they want this. 
+**15+ States** are already on-board.
 {: style="font-size: 130%; text-align: center;"}
 
 **But** they need an act of congress to do it!
 {: style="font-size: 130%; text-align: center;"}
 
-Ask Congress to let them with the bipartisan **Sunshine Protection Act**.
+Ask Congress to vote on the bipartisan **Sunshine Protection Act**.
 {: style="font-size: 130%; text-align: center;"}
 
+Enter your info below so we can find your reps and help you customize a message.
+{: style="font-size: 100%; text-align: center;"}
 
 <link href='style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v3/letter/support-for-the-sunshine-protection-act?format=js&source=widget&style=full'></script>
 <link rel="stylesheet" type="text/css" href="../style.css">
