@@ -23,14 +23,9 @@ Take 3 minutes to ask Congress to vote on the bipartisan **Sunshine Protection A
 
 <div id='can-letter-area-support-for-the-sunshine-protection-act'>If you see this, Sorry! The page didn't load correctly. <br/><a href="https://actionnetwork.org/letters/support-for-the-sunshine-protection-act">Try clicking here to write to congress to keep summer time!</a></div>
 
-# What does this form do?
-1. Enter your info.  We need your return (full) address to know your representatives. 
-1. We find your reps (and customize to make it match their contact forms)
-1. Customize our sample letter(s). If one of your representatives already supports it we sent them a thank you.
-1. Press Send.
-1. Please share it after!
+# Privacy | What does this form do?
+It contacts your representatives in congress via their contact forms. We need your return/full address to know your representatives. We give you a letter to customize including a thank you if one of your reps already supports the bill.
 
-# Privacy
 I will only use your information or contact you for this campaign.  Delete your  information if the campaign stops or within 1 year of a successful switch. Send out only one "Thank you" message if this is successful which could mention other campaigns.
 
 I will ***never***, ask for money, sell your information, or sign you up for other mailing lists. 
