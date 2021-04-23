@@ -13,9 +13,7 @@ layout: page
 
 ### ☀️☀️☀️ &emsp; &emsp; &emsp;&emsp; 🕑🕒🕑
 
-#### **15+ States** are already on-board.
-
-#### But they need **congress** to act!
+#### **15 States** are already on-board.
 
 #### The bipartisan **Sunshine Protection Act** does it!
 
