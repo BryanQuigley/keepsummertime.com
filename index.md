@@ -11,7 +11,7 @@ layout: page
 
 #### More sunshine in the afternoon. Never change your clock again.
 
-### ☀️☀️☀️☀️☀️ &emsp; &emsp; &emsp;&emsp; 🕑🕒🕑🕒🕑
+### ☀️☀️☀️ &emsp; &emsp; &emsp;&emsp; 🕑🕒🕑
 
 #### **15+ States** are already on-board.
 
