@@ -45,3 +45,9 @@ Favicon and other images derived from [https://github.com/twitter/twemoji]
 Graphics Author: Copyright 2020 Twitter, Inc and other contributors
 - Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/2600.svg
 - Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+Social Flat Rounded Rects  by [Aha-Soft Team](http://www.aha-soft.com/free-icons/) 
+**License:**  Creative Commons (Attribution 3.0 Unported)
+*Dec 26th, 2014*
+
+Privacy focused sharing widget via [https://simplesharingbuttons.com](https://simplesharingbuttons.com)
