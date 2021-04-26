@@ -15,7 +15,7 @@ layout: page
 
 #### **15 States** are already on-board.
 
-#### The bipartisan **Sunshine Protection Act** fixes it!
+#### The bipartisan **Sunshine Protection Act** fixes it.
 
 #### Take **3 mins** to ask Congress to act!
 
