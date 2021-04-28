@@ -43,18 +43,13 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
-// Import partials.
+// Import partials. //  "minima/syntax-highlighting"
 @import
   "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/layout"
 ;
 
 //My additions
-h2 {
-  font-size: 30px; 
-  font-weight: bold;
-}
 
 h3 {
   font-size: 200%; 
