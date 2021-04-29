@@ -24,7 +24,11 @@ Changing the clocks is bad for our health:
  It's no longer really standard as we are on DST for longer then "standard" time. Regardless, states are currently allowed to switch to "Standard time" all year long. They can't choose to be on summer time/permanent DST, but 15 states would prefer to be!
 
 ## the specific bill(s)
-They are currently tracked separately in the [house](https://www.congress.gov/bill/117th-congress/house-bill/69/cosponsors?searchResultViewType=expanded) and [senate](https://www.congress.gov/bill/117th-congress/senate-bill/623/cosponsors?searchResultViewType=expanded).
+It's called the Sunshine Protection Act and it has been introduced in both the house and senate.
+
+The [house](https://www.congress.gov/bill/117th-congress/house-bill/69/cosponsors?searchResultViewType=expanded) version was introduced by Rep. Buchanan, Vern and currently has 20 co-sponsors (14 R, 6 D).
+
+The [senate](https://www.congress.gov/bill/117th-congress/senate-bill/623/cosponsors?searchResultViewType=expanded) version was introduced by Sen. Rubio, Marco and currently has 14 co-sponsors (8 R, 6 D).
 
 You can also learn more from this [PDF summary](https://www.rubio.senate.gov/public/_cache/files/14e39e20-b852-4cae-b98b-258e0c0898a6/1C912A264D838911D32528FA5B1FD0FB.sunshine-protection-act-2019-one-pager.pdf) or [Wikipedia](https://en.wikipedia.org/wiki/Sunshine_Protection_Act).
 
@@ -36,6 +40,8 @@ Please get in touch, ideally via Github [https://github.com/BryanQuigley/keepsum
 
 ## find a typo or a better way to say something?
 Everything you see is editable on Github [https://github.com/BryanQuigley/keepsummertime.com](https://github.com/BryanQuigley/keepsummertime.com). The biggest thing you could do right now is share it though!
+
+You can also send me a message at summertime AT BryanQuigley.com.
 
 ## who has helped?
 Background by [SVGBackgrounds.com](SVGBackgrounds.com)
