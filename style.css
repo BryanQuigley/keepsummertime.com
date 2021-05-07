@@ -32,3 +32,8 @@ ul.share-buttons .sr-only{
 ul.share-buttons img{
     width: 32px;
 }
+
+h3 {
+    font-size: 100%; 
+    text-align: center;  
+  }

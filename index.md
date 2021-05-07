@@ -9,15 +9,15 @@ layout: page
 <link rel="stylesheet" type="text/css" href="../style.css">
 <script async="async" src='https://actionnetwork.org/widgets/v3/letter/support-for-the-sunshine-protection-act?format=js&source=widget&style=full'></script>
 
-#### More sunshine in the afternoon. Never change your clock again.
+### More sunshine in the afternoon. Never change your clock again.
 
 ### ☀️☀️☀️ &emsp; &emsp; &emsp;&emsp; 🕑🕒🕑
 
-#### **15 States** are already on-board.
+### **15 States** are already on-board.
 
-#### The bipartisan **Sunshine Protection Act** fixes it.
+### The bipartisan **Sunshine Protection Act** fixes it.
 
-#### Take **3 mins** to ask Congress to act!
+### Take **3 mins** to ask Congress to act!
 
 <div id='can-letter-area-support-for-the-sunshine-protection-act'>
 <br/>
@@ -27,7 +27,7 @@ If you see this, Sorry! The page didn't load correctly.
 </div>
 <br/>
 
-#### **Please Share**
+### Please Share
 
 <ul class="share-buttons" data-source="simplesharingbuttons.com">
   <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkeepsummertime.com%2F&quote=Keep%20Summer%20Time!" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="social_flat_rounded_rects_svg/Facebook.svg" /></a></li>
@@ -43,10 +43,17 @@ If you see this, Sorry! The page didn't load correctly.
 </ul>
 
 <br/>
-# Privacy | What does this form do?
-It contacts your representatives in congress via their contact forms. We need your return/full address to know your representatives. We give you a letter to customize including a thank you if one of your reps already supports the bill.
 
-I will only use your information or contact you for this campaign.  Delete your  information if the campaign stops or within 1 year of a successful switch. Send out only one "Thank you" message if this is successful which could mention other campaigns.
+#### What does this form do?
 
-I will ***never***, ask for money, sell your information, or sign you up for other mailing lists. 
+1. Enter your full address to find your representatives in congress.
+1. Determines other items needed for their specific contact form. (What topic varies by person)
+1. Let's you customize a letter asking them to support summer time all year. If you rep already supports the bill we give you a thank you letter to send them.
+1. Send the letter - and then please share!
+
+#### Privacy
+ * I will ***only*** use your information or contact you for this campaign.  
+ * I will ***never*** ask for money, sell your information, or sign you up for other mailing lists. 
+ * I will ***delete*** your  information if the campaign stops or within 1 year of a successful switch. I will inform you when your info will be deleted with one "Thank you" message if successful.
+
 
