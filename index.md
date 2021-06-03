@@ -9,7 +9,7 @@ layout: page
 <link rel="stylesheet" type="text/css" href="../style.css">
 <script async="async" src='https://actionnetwork.org/widgets/v3/letter/support-for-the-sunshine-protection-act?format=js&source=widget&style=full'></script>
 
-### More sunshine in the afternoon. Never change your clock again.
+### More sun for the afternoon. Never change your clock again.
 
 ### ☀️☀️☀️ &emsp; &emsp; &emsp;&emsp; 🕑🕒🕑
 
