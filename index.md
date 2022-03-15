@@ -17,7 +17,9 @@ layout: page
 
 ### The bipartisan **Sunshine Protection Act** fixes it.
 
-### Take **3 mins** to ask Congress to act!
+### The SENATE Just passed it!
+
+### Take **3 mins** to ask your representative to act!
 
 <div id='can-letter-area-support-for-the-sunshine-protection-act'>
 <br/>
