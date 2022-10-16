@@ -33,7 +33,7 @@ It's called the Sunshine Protection Act and it has been introduced in both the h
 
 The [house](https://www.congress.gov/bill/117th-congress/house-bill/69/cosponsors?searchResultViewType=expanded) version was introduced by Rep. Buchanan, Vern and currently has 20 co-sponsors (14 R, 6 D).
 
-The [senate](https://www.congress.gov/bill/117th-congress/senate-bill/623/cosponsors?searchResultViewType=expanded) version was introduced by Sen. Rubio, Marco and currently has 14 co-sponsors (8 R, 6 D).
+The [senate](https://www.congress.gov/bill/117th-congress/senate-bill/623/cosponsors?searchResultViewType=expanded) version was introduced by Sen. Rubio, Marco and currently has 14 co-sponsors (8 R, 6 D) and passed the Senate!.
 
 You can also learn more from this [PDF summary](https://www.rubio.senate.gov/public/_cache/files/14e39e20-b852-4cae-b98b-258e0c0898a6/1C912A264D838911D32528FA5B1FD0FB.sunshine-protection-act-2019-one-pager.pdf) or [Wikipedia](https://en.wikipedia.org/wiki/Sunshine_Protection_Act).
 
@@ -59,7 +59,7 @@ You can also send me a message at summertime AT BryanQuigley.com.
 
 ### Built on
 
- * Background by [SVGBackgrounds.com](SVGBackgrounds.com)
+ * Background by [SVGBackgrounds.com](https://www.svgbackgrounds.com/)
  * Favicon and other images derived from [Twitter's Twemoji](https://github.com/twitter/twemoji)
  [License CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) Copyright 2020 Twitter, Inc and other contributors [Source](https://github.com/twitter/twemoji/blob/master/assets/svg/2600.svg).
  * Social Flat Rounded Rects  by [Aha-Soft Team](http://www.aha-soft.com/free-icons/) **License:**  Creative Commons (Attribution 3.0 Unported) *Dec 26th, 2014*
