@@ -7,7 +7,6 @@ layout: page
 </head>
 
 <link rel="stylesheet" type="text/css" href="../style.css">
-<script async="async" src='https://actionnetwork.org/widgets/v3/letter/support-for-the-sunshine-protection-act?format=js&source=widget&style=full'></script>
 
 ### More sun for the afternoon. Never change your clock again.
 
@@ -17,14 +16,11 @@ layout: page
 
 ### The bipartisan **Sunshine Protection Act** fixes it.
 
-### The SENATE Just passed it!
-
-### Take **3 mins** to ask your representative to act!
+### Take **3 mins** to ask your representatives to act!
 
 <div id='can-letter-area-support-for-the-sunshine-protection-act'>
 <br/>
-If you see this, Sorry! The page didn't load correctly.
-<br/><a href="https://actionnetwork.org/letters/support-for-the-sunshine-protection-act">Try clicking here to write to congress to keep summer time!</a>
+<h1><a href="https://actionnetwork.org/letters/support-for-the-sunshine-protection-act">Click here to write to congress to keep summer time!</a></h1>
 <br/>
 </div>
 <br/>

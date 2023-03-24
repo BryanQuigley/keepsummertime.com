@@ -25,15 +25,23 @@ Changing the clocks is bad for our health:
  * Major mental health
  * More accidents and it has not saved any energy in decades. 
 
+
+### didn't it pass?
+If not fully passed to become a law, the bills need to be re-introduced in the next session.  Here are the old ones:
+
+The [house](https://www.congress.gov/bill/117th-congress/house-bill/69/cosponsors?searchResultViewType=expanded) version was introduced by Rep. Buchanan, Vern and currently got to 48 co-sponsors (32 R, 16 D) but never got called up for a vote on the floor.
+
+The [senate](https://www.congress.gov/bill/117th-congress/senate-bill/623/cosponsors?searchResultViewType=expanded) version was introduced by Sen. Rubio, Marco and got to 18 co-sponsors (10 R, 8 D) and passed the Senate!.
+
 ### "standard" time?
  It's no longer really standard as we are on DST for longer then standard time. Regardless, states are currently allowed to switch to Standard time all year long. They can't choose to be on summer time/permanent DST unless congress acts!
 
-### the specific bill(s)
+### the current bill(s)
 It's called the Sunshine Protection Act and it has been introduced in both the house and senate.
 
-The [house](https://www.congress.gov/bill/117th-congress/house-bill/69/cosponsors?searchResultViewType=expanded) version was introduced by Rep. Buchanan, Vern and currently has 20 co-sponsors (14 R, 6 D).
+The [house](https://www.congress.gov/bill/118th-congress/house-bill/1279) version was introduced by Rep. Buchanan, Vern and currently has 19 co-sponsors (19 R).
 
-The [senate](https://www.congress.gov/bill/117th-congress/senate-bill/623/cosponsors?searchResultViewType=expanded) version was introduced by Sen. Rubio, Marco and currently has 14 co-sponsors (8 R, 6 D) and passed the Senate!.
+The [senate](https://www.congress.gov/bill/118th-congress/senate-bill/582) version was introduced by Sen. Rubio, Marco and currently has 14 co-sponsors (7 R, 7 D).
 
 You can also learn more from this [PDF summary](https://www.rubio.senate.gov/public/_cache/files/14e39e20-b852-4cae-b98b-258e0c0898a6/1C912A264D838911D32528FA5B1FD0FB.sunshine-protection-act-2019-one-pager.pdf) or [Wikipedia](https://en.wikipedia.org/wiki/Sunshine_Protection_Act).
 
