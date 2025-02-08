@@ -20,7 +20,7 @@ layout: page
 
 <div id='can-letter-area-support-for-the-sunshine-protection-act'>
 <br/>
-<h1><a href="https://actionnetwork.org/letters/support-for-the-sunshine-protection-act">Click here to write to congress to keep summer time!</a></h1>
+<h1><a href="https://actionnetwork.org/letters/sunshine-protection-act">Click here to write to congress to keep summer time!</a></h1>
 <br/>
 </div>
 <br/>
