@@ -13,9 +13,6 @@ permalink: /about/
 
 Please don't blame the farmers! They had nothing to do with making the clocks change. Do farm animals care what time it is? Read more from the [Farm Bureau](https://www.fb.org/viewpoints/setting-the-record-straight-daylight-saving-time-and-farmers).
 
-### kids going to school in the dark?
-The #LockTheClock campaign has a [good page that covers the safety aspect](https://www.sco.tt/time/research.html)
-
 ### energy use?
 It has been shown to not save energy and possibly use more.
 
@@ -27,7 +24,13 @@ Changing the clocks is bad for our health:
 
 
 ### didn't it pass?
-If not fully passed to become a law, the bills need to be re-introduced in the next session.  Here are the old ones:
+Here is the current status.
+
+The [house](https://www.congress.gov/bill/119th-congress/house-bill/139/cosponsors) version is currently at 13 co-sponsors (all Republicans)
+
+The [senate](https://www.congress.gov/bill/119th-congress/senate-bill/29/cosponsors) version is currently at 16 co-sponsors (8 D, 8 R)
+
+Here are how we did in old sessions, the bills need to be re-introduced.
 
 The [house](https://www.congress.gov/bill/117th-congress/house-bill/69/cosponsors?searchResultViewType=expanded) version was introduced by Rep. Buchanan, Vern and currently got to 48 co-sponsors (32 R, 16 D) but never got called up for a vote on the floor.
 
@@ -45,9 +48,6 @@ The [senate](https://www.congress.gov/bill/118th-congress/senate-bill/582) versi
 
 You can also learn more from this [PDF summary](https://www.rubio.senate.gov/public/_cache/files/14e39e20-b852-4cae-b98b-258e0c0898a6/1C912A264D838911D32528FA5B1FD0FB.sunshine-protection-act-2019-one-pager.pdf) or [Wikipedia](https://en.wikipedia.org/wiki/Sunshine_Protection_Act).
 
-### #LockTheClock campaign
-Check out the [https://www.sco.tt/time/](https://www.sco.tt/time/) for lots of detailed reasons and research why we should #LockTheClock.
-
 
 <br/><br/><br/>
 
@@ -62,8 +62,6 @@ Please get in touch, ideally via [Github](https://github.com/BryanQuigley/keepsu
 
 ### fix some text?
 Everything you see is editable on [Github](https://github.com/BryanQuigley/keepsummertime.com). The biggest thing you could do right now is share it though!
-
-You can also send me a message at summertime AT BryanQuigley.com.
 
 ### Built on
 
